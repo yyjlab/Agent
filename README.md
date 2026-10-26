@@ -8,6 +8,7 @@
 | --- | --- |
 | [AGENTS.md](AGENTS.md) | 规则入口，说明何时读取专项规范 |
 | [documentation.md](documentation.md) | 文档编写规范，涵盖标题、内容、命令、排版和维护 |
+| [tool-usage.md](tool-usage.md) | PowerShell 7、FastCtx 的使用分工及上下文节省规则 |
 
 ## 使用方法
 
