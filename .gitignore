@@ -1,3 +1,2 @@
-# 本机规则备份和实验环境
-/AGENTS.global-backup.*.md
-/devops-lab.local.md
+# 实验环境记录随仓库维护
+!/devops-lab.local.md
