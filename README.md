@@ -6,12 +6,12 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [AGENTS.md](AGENTS.md) | 规则入口，说明何时读取专项规范 |
+| [AGENTS.md](AGENTS.md) | 任务范围、授权边界、结果汇报及专项规则入口 |
 | [documentation.md](documentation.md) | 文档编写规范，涵盖标题、内容、命令、排版和维护 |
 | [ui-design.md](ui-design.md) | 界面精简规范，以操作和结果为主，避免冗余说明和提示块 |
 | [tool-usage.md](tool-usage.md) | PowerShell 7、FastCtx 的使用分工及上下文节省规则 |
 | [linux.md](linux.md) | Linux 执行身份、软件安装目录、Nginx 静态目录和部署验证 |
-| [development.md](development.md) | 代码与配置、Code Review、新需求的 GitHub 调研 |
+| [development.md](development.md) | 代码实现、适度验证、Code Review、Jenkins 与 GitHub 调研 |
 | `devops-lab.local.md` | 本机实验环境和学习方式 |
 
 ## 使用方法
